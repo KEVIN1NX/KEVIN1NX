@@ -12,7 +12,6 @@
 <h3><b><i>Github Statistics :</i></b></h3>
 <a href="https://github.com/PSYCHO-PICCHI"><img width=550 src="https://github-profile-trophy.vercel.app/?username=PSYCHO-PICCHI&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-
 <br/>
       <a href="https://github.com/PSYCHO-PICCHI/github-readme-stats"><img alt="PSYCHO PICCHI's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PSYCHO-PICCHI&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
         <a href="https://github.com/PSYCHO-PICCHI/github-readme-stats"><img alt="PSYCHO PICCHI's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSYCHO-PICCHI&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>

@@ -32,3 +32,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 <br/>
+
+</p>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PSYCHO-PICCHI&repo=BD-11-DIGIT&theme=chartreuse-dark" />
+<p align="center">
+<a href="https://github.com/PSYCHO-PICCHI/BD-11-DIGIT"><img title="BD-11-DIGIT" src="https://github-readme-stats.vercel.app/api/pin/?username=PSYCHO-PICCHI&repo=BD-11-DIGIT&theme=vision-friendly-dark"></a>

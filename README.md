@@ -24,6 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 <br/>
+
 <h3><b><i>Github Statistics :</i></b></h3>
 <a href="https://github.com/PSYCHO-PICCHI"><img width=550 src="https://github-profile-trophy.vercel.app/?username=PSYCHO-PICCHI&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 

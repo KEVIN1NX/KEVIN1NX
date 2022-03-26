@@ -39,3 +39,8 @@
 </p>
 <p align="center">
 <a href="https://github.com/PSYCHO-PICCHI/BD-11-DIGIT"><img title="BD-11-DIGIT" src="https://github-readme-stats.vercel.app/api/pin/?username=PSYCHO-PICCHI&repo=BD-11-DIGIT&theme=vision-friendly-dark"></a>
+
+<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
+
+
+<a href="https://github.com/PSYCHO-PICCHI/BD-6-DIGIT.git"><img title="BD-6-DIGIT" src="https://github-readme-stats.vercel.app/api/pin/?username=PSYCHO-PICCHI&repo=BD-6-DIGIT&theme=gotham"></a>

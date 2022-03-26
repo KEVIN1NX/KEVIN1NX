@@ -5,7 +5,7 @@
 #
 #### Contact With Me
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/psycho.picchi)
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/01926890544?text=Asalamualaikum+bang)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://chat.whatsapp.com/C4Zj6G65DhHEdY9P2Gss0k?text=Asalamualaikum+bang)
 #
 
 

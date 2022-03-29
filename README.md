@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=IT'S+A+BRAND+PSYCHO+PICCHI+BRO+)](https://git.io/typing-svg) 
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psycho-picchi&label=Profile%20views&color=0e75b6&style=flat" alt="psycho-picchi" /> </p>
 <p align="left">
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>

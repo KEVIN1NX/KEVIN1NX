@@ -48,4 +48,6 @@ GitHub Contribution Graph
 
 <a href="https://github.com/PSYCHO-PICCHI/BD-11-DIGIT"><img title="BD-11-DIGIT" src="https://github-readme-stats.vercel.app/api/pin/?username=PSYCHO-PICCHI&repo=BD-11-DIGIT&theme=vision-friendly-dark"></a>
 
-<a href="https://github.com/PSYCHO-PICCHI/BD-6-DIGIT.git"><img title="BD-6-DIGIT" src="https://github-readme-stats.vercel.app/api/pin/?username=PSYCHO-PICCHI&repo=BD-6-DIGIT&theme=gotham"></a>
+<a href="https://github.com/PSYCHO-PICCHI/BD-6-DIGIT.git"><img title="BD-6-DIGIT" src="https://github-readme-stats.vercel.app/api/pin/?username=PSYCHO-PICCHI&repo=BD-6-DIGIT&theme=gotham"></a> 
+
+<a href="https://github.com/PSYCHO-PICCHI/Random.git"><img title="Random" src="https://github-readme-stats.vercel.app/api/pin/?username=PSYCHO-PICCHI&repo=Random&theme=gotham"></a>

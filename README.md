@@ -8,10 +8,10 @@
 
 #
 #### Contact With Me
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/psycho.picchi)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/ps7c8o.p133h1)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://chat.whatsapp.com/C4Zj6G65DhHEdY9P2Gss0k?text=Asalamualaikum+bang) 
 <a href="https://github.com/PSYCHO-PICCHI"><img src="https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white"> 
-<a href="https://www.instagram.com/psycho.picchi"><img src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=purple&labelColor=white">
+<a href="https://www.instagram.com/psycho_picchi"><img src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=purple&labelColor=white">
 #
 
 

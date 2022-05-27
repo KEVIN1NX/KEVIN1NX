@@ -54,3 +54,5 @@ GitHub Contribution Graph
 <a href="https://github.com/PSYCHO-PICCHI/Fast-Dump.git"><img title="Fast Dump" src="https://github-readme-stats.vercel.app/api/pin/?username=PSYCHO-PICCHI&repo=Fast-Dump&theme=gotham"></a>
 
 <a href="https://github.com/PSYCHO-PICCHI/OLD-CRACK"><img title="OLD-CRACK" src="https://github-readme-stats.vercel.app/api/pin/?username=PSYCHO-PICCHI&repo=OLD-CRACK&theme=vision-friendly-dark"></a>
+
+<a href="https://github.com/PSYCHO-PICCHI/S2K-FREE"><img title="S2K-FREE" src="https://github-readme-stats.vercel.app/api/pin/?username=PSYCHO-PICCHI&repo=S2K-FREE&theme=vision-friendly-dark"></a>

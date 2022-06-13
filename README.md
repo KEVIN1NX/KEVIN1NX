@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=IT'S+A+BRAND+PSYCHO+PICCHI+BRO+)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=𝐈𝐭'𝐬+𝐀+𝐁𝐫𝐚𝐧𝐝+𝐏𝐒𝐘𝐂𝐇𝐎+𝐏𝐈𝐂𝐂𝐇𝐈;𝐅𝐨𝐥𝐥𝐨𝐰+𝐌𝐲+𝐅𝐛+𝐏𝐚𝐠𝐞;𝐅𝐨𝐥𝐥𝐨𝐰+𝐌𝐲+𝐆𝐢𝐭𝐡𝐮𝐛+)](https://git.io/typing-svg)
 
 
 

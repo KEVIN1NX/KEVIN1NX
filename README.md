@@ -1,43 +1,57 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=It's+a+NOOB+ALPHA-XD+;PLIS+𝐅𝐨𝐥𝐥𝐨𝐰+𝐌𝐲+𝐆𝐢𝐭𝐡𝐮𝐛+)](https://git.io/typing-svg)
+<h1 align="center">Hello world<img src="https://github.com/PYSHCO-PICCHI/PYSHCO-PICCHI/blob/main/Wave.gif" height="55px"width="55px">,I'm OVI</h1>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+<img src ="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" "440" title="WEB" alt="LEARN 
 
-![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594 (1)](https://user-images.githubusercontent.com/79738922/150628863-e161ecb3-06fe-4656-be20-9122ed533309.gif)
+<p align="center">
+  Code By <a href="https://github.com/PYSHCO-PICCHI">Legend</a>
+</p>
+<li> 👨‍🎓 <i> STUDENT</i></li>
+<li> 🇧🇩 <i> BANGLADESH</i></li>
+<li> 🕌 <i> MUSLIM</i></li>
+<li> 💻 <i> LEARN PYTHON</i></li><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ovi1.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ovi1.0" height="30" width="40" /></a>
-<a href="https://www.facebook.com/I.AM.MAHMUD.HASAN.OVI?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmud hasan ovi" height="30" width="40" /></a>
-<a href="https://instagram.com/ovivau23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ovivau23" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/inshot music 2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="inshot music 2" height="30" width="40" /></a>
+<h2>:bulb: The Language I Python</h2>
+<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+</br></br>
+
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=PYSHCO-PICCHI&layout=compact&type=donut&theme=dark)](https://github.com/PYSHCO-PICCHI)
+
+
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=PYSHCO-PICCHI&layout=compact&theme=dark)](https://github.com/PYSHCO-PICCHI/PYSHCO-PICCHI)
+
+<img src = "https://github-readme-stats.vercel.app/api?username=PYSHCO-PICCHI&show_icons=true&theme=bear](https://github-readme-stats.vercel.app/api?username=PYSHCO-PICCHI&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true" width = 400><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PYSHCO-PICCHI&layout=compact&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true" width = 400>
+<br><p align='center'><img src="https://komarev.com/ghpvc/?username=PYSHCO-PICCHI&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="PYSHCO-PICCHI" />
+<a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
+<p align='center'><a href="https://api.daily.dev/get?r=CyberCarboon">
+<p align="center">
+    <a href="https://github.com/PYSHCO-PICCHI/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PYSHCO-PICCHI streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PYSHCO-PICCHI&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
 
-### &nbsp;Tech Stack
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=PYSHCO-PICCHI&re
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![PHP](https://img.shields.io/badge/-Php-000000?style=flat&logo=php)&nbsp;
-![BASH](https://img.shields.io/badge/-BASH-000000?style=flat&logo=shell)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-<br/>
+## WEB FOR LEARNING
+<img src="https://github.com/PYSHCO-PICCHI/PYSHCO-PICCHI/blob/main/website.jpg">
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+[HERE](https://s.id/feristyle)
 
-### &nbsp; Github Statistics </i></b></h3>
-<a href="https://github.com/M4HMU4-169"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MR-OV1&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+## Contacts Me
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/PYSHCO-PICCHI)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/I.AM.MAHMUD.HASAN.OVI?mibextid=ZbWKwL)
 
-<br/>
-<a href="https://github.com/M4HMU4-169/github-readme-stats"><img alt="M4HMU4-169's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M4HMU4-169&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-        <a href="https://github.com/M4HMU4-169/github-readme-stats"><img alt="M4HMU4-169's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSYCHO-PICCHI&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-          <br/>
+## PARTICIPATION
+<ul>
+<li>
+Participation Certificate
+</li>
+</ul>
+<img src="https://github.com/PYSHCO-PICCHI/FileServer/blob/main/sfd.jpg"/>
 
-GitHub Contribution Graph
-</p>
-<p align="center"> 
-<a href="https://github.com/MR-OV1/Random"><img title="Random" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-OV1&repo=Random&theme=vision-friendly-dark"></a>
+## ⭐⭐⭐⭐⭐
+<img src="https://raw.githubusercontent.com/Carol42/Carol42/output/github-contribution-grid-snake.svg"/>

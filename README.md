@@ -10,7 +10,7 @@
 <li> 👨‍🎓 <i> STUDENT</i></li>
 <li> 🇧🇩 <i> BANGLADESH</i></li>
 <li> 🕌 <i> MUSLIM</i></li>
-<li> 💻 <i> LEARN PYTHON</i></li><br>
+<li> 💻 <i> LEARN C++</i></li><br>
 
 <h2>:bulb: The Language I Python</h2>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>

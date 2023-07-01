@@ -1,4 +1,4 @@
-
+![template_s](https://github.com/MRX-169-KD/RANDOM/blob/main/DATABASE/wallpaperbetter_(1).jpg)
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
